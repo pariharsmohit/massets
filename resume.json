@@ -122,6 +122,11 @@
       "name": "freeCodeCamp Responsive Web Design Certification",
       "url": "https://www.freecodecamp.org/certification/mohitsparihar/responsive-web-design",
       "description": "Responsive Web Design Certification"
+    },
+    {
+      "name": "Personal Portfolio",
+      "url": "https://mohitsparihar.github.io/",
+      "description": "Template style personal protfolio designed and built on Angular 2+"
     }
   ],
   "personalProfile": {
