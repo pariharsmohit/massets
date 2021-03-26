@@ -28,13 +28,12 @@
     }
   },
   "skills": [
+    "SAP ERP",
     "HTML5",
     "CSS3",
     "JavaScript",
-    "React",
-    "Angular 2+",
     "SCSS",
-    "LESS",
+    "React",
     "GIT",
     "C++"
   ],
@@ -89,19 +88,29 @@
   ],
   "projects": [
     {
-      "title": "ACB (Appointment CallBack)",
-      "technologies": "OOJS, Angular 2+, HTML5",
-      "description": "ACB provide a call tracking and scheduling system for business process executives."
+      "title": "Ugradation of Oil Skimmers",
+      "companyName": "GAIL (India)Limited",
+      "description": "Upgradation of the disk type oil skimmers to drum type for increase of oil removal from the water."
+    },
+    {
+      "title": "Overhauling and Major Inspection of GE FR-1 Gas turbine",
+      "companyName": "GAIL (India)Limited",
+      "description": "After 80000 hrs successful running of the GE FR-1 Gas Turbine, Major inspection was carried out at the GAIL Vijaipur Plant. Complete overhauling of the GT was done."
+    },
+    {
+      "title": "Overhauling and Major Inspection of BHEL FR-3 Gas turbine",
+      "companyName": "GAIL (India)Limited",
+      "description": "After 100000 hrs successful running of the BHEL FR-3 Gas Turbine, Major inspection was carried out at the GAIL Vijaipur Plant. Complete overhauling of the GT was done with replacement of the various critical parts."
     }
   ],
   "experience": [
     {
-      "name": "ABM WEB SOLUTIONS PVT LTD.",
-      "title": "Software Engineer",
-      "startDate": "July 2018",
+      "name": "GAIL (India) Limited",
+      "title": "Graduate Aprrentice",
+      "startDate": "September 2020",
       "endDate": "Present",
-      "location": "BANGALORE",
-      "url": "www.abmwebsol.com"
+      "location": "Vijaipur, Guna",
+      "url": "https://gailonline.com/"
     }
   ],
   "personalProjects": [
