@@ -117,34 +117,19 @@
   ],
   "personalProjects": [
     {
-      "name": "Trello Clone",
-      "url": "https://github.com/mohitsparihar/trello-react",
-      "description": "Trello clone built using React library of JavaScript"
-    },
-    {
       "name": "Resume",
       "url": "https://mohitsparihar.github.io/resume/",
       "description": "Resume built in Angular 2+/ React"
     },
     {
-      "name": "Weather Page",
-      "url": "https://mohitsparihar.github.io/weatherPage/",
-      "description": "Weather app built in JavaScript with the use of API"
-    },
-    {
-      "name": "Password Generator",
-      "url": "https://mohitsparihar.github.io/passwordGenerator/",
-      "description": "Random password Generator"
+      "name": "Personal Portfolio",
+      "url": "https://mohitsparihar.github.io/",
+      "description": "Template style personal protfolio designed and built on Angular 2+"
     },
     {
       "name": "freeCodeCamp Responsive Web Design Certification",
       "url": "https://www.freecodecamp.org/certification/mohitsparihar/responsive-web-design",
       "description": "Responsive Web Design Certification"
-    },
-    {
-      "name": "Personal Portfolio",
-      "url": "https://mohitsparihar.github.io/",
-      "description": "Template style personal protfolio designed and built on Angular 2+"
     },
     {
       "name": "freeCodeCamp JavaScript Algorithms and Data Structures Certification",
